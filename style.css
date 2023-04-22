@@ -1,0 +1,16 @@
+#playButton {
+    border-radius: 10px;
+    letter-spacing: 5px;
+}
+
+#title {
+    color: aquamarine;
+    margin: 0px;
+    font-size: 40px;
+    width: 100%;
+}
+
+#status {
+    border-radius: 10px;
+    font-size: 11px;
+}
